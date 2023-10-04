@@ -3,7 +3,10 @@ export default function Home() {
       <div>
         <h1>Home Page</h1>
         <p>
-            Will be my landing page at some point
+          Hello!
+
+          <div>Welcome to my Portfolio Website, brought to you by Reactjs.</div>
+
         </p>
       </div>
     );
